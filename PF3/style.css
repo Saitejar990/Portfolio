@@ -1,0 +1,85 @@
+.border{
+    margin: 0px;
+    border: 40px peachpuff solid;
+    padding: 10px;
+}
+
+.intro{
+    background-color: lightblue;
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+}
+
+.image{
+    
+    text-align-last: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.text{
+    padding: 100px 50px 50px 100px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+}
+
+.linkedin{
+    padding: 10px;
+}
+
+.github{
+    padding: 10px;
+}
+
+.aboutme{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.works{
+    /* display: grid; */
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logos{
+    display: flex;
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    justify-content: center;
+}
+
+.skills{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo{
+    padding: 20px;
+}
+
+.Resume{
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.downloadButton{
+    display: flex;
+    justify-content: center;
+}
+
+.resumeBody{
+    font-size: large;
+    text-align: center;
+}
+
+.End{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.contact{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
